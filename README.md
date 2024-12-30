@@ -32,7 +32,7 @@ unrodered list
 
 '''python 
 
-name"황지민"
+name "황지민"
 age=24
 '''
 
@@ -41,11 +41,15 @@ age=24
 |  황지민  |     여     |
 
 
+'''naver.com'''
+
+
+
+
 
 
 add new line
 add more
-
 
 add more more
 
