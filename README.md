@@ -36,6 +36,13 @@ name"황지민"
 age=24
 '''
 
+|   name   |   gender   |
+|----------|------------|
+|  황지민  |     여     |
+
+
+
+
 add new line
 add more
 
